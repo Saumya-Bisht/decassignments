@@ -1,6 +1,9 @@
 var a = 200;
 var b=40;
 var c=90;
+console.log(a);
+console.log(b);
+console.log(c);
 
 if(a > b) {
     if(a>c){
